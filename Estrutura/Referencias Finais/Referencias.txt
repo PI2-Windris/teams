@@ -1,0 +1,11 @@
+REFERENCIAS
+
+[1] Letcher T, “Wind Energy Engineering A Handbook for Onshore and Offshore Wind Turbines”, Academic Press, May 2017. 
+[2] Rosato M, “Small Wind Turbines for Electricity and Irrigation Design and Construction”, CRC Press, Taylor & Francis Group, 2019.
+[3] Sozer Y, Bandarkar A. “Energy Harvesting from Moving Vehicles on Highways”, University of Akron, September 2019.
+[4] N Karthikeyan and T Suthakar 2016 J. Phys.: Conf. Ser. 759 012087
+
+[5] Global Wind Atlas. Disponivel em <https://globalwindatlas.info/>
+[6] PNCT - DNIT. Disponivel em <http://servicos.dnit.gov.br/dadospnct/PesquisaCobertura>
+
+
